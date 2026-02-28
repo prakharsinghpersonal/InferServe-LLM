@@ -1,0 +1,1 @@
+- Commit 2 (vLLM Backend Integration): Write the Triton model configuration (config.pbtxt) and Python backend scripts to utilize vLLM for model serving.
