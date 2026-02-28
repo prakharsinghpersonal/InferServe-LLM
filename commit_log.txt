@@ -1,1 +1,2 @@
 - Commit 2 (vLLM Backend Integration): Write the Triton model configuration (config.pbtxt) and Python backend scripts to utilize vLLM for model serving.
+- Commit 3 (Asynchronous Routing): Configure Triton's dynamic batching and asynchronous request routing to handle demanding concurrent workloads.
