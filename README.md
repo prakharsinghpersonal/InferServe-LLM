@@ -1,0 +1,1 @@
+# InferServe-LLM\n\n**InferServe: Distributed LLM Optimization - Highly scalable LLM serving layer using Triton Inference Server and vLLM.**\n\n## Tech Stack\n- Go\n- Python\n- vLLM\n- Triton\n- Llama 3\n
